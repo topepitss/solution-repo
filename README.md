@@ -1,3 +1,5 @@
 "# My Solution" 
  
-"Project URL: Not deployed yet." 
+"This is my solution for the project." 
+ 
+"Project URL: https://github.com/topepitss/solution-repo" 
